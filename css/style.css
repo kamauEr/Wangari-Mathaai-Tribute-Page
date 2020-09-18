@@ -38,6 +38,11 @@ ul{
     display: inline;
     list-style-position: inside;    
 }
+
+li{
+  padding:10px;
+  }
+
 strong{
     font-size:17px;
 }
